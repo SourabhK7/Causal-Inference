@@ -1,6 +1,6 @@
 
 
-# Executive Summary
+# Curating best marketing strategy for term-deposit renewals
 We conducted statistical experimentation to determine the impact of change in marketing channels from
 telephone to a cellphone. Our analysis showed that if we reach a customer via cellphone, the chances of term
 deposit renewal are 24% more than the traditional telephone method. Further, we identified that if we get
