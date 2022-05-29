@@ -1,4 +1,3 @@
-# causal-marketing-strategy
 
 
 # Executive Summary
