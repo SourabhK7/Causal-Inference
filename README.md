@@ -8,3 +8,6 @@ the customer more than four times, the chances of term-deposit renewals start de
 Based on our analysis, we would recommend the marketing teams design future marketing campaigns using a
 cellphone as a mode of communication and limit the frequency of the call to 4 during the campaign period,
 maximizing the chances of term-deposit renewals.
+
+
+Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing
